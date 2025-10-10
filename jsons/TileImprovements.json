@@ -16,7 +16,7 @@
         "Constructing it will take over the tiles around it and assign them to your closest city", "Adjacent enemy units ending their turn take [20] damage"]
 	},
 {
-	"name": "Theattre",
+	"name": "Great Theatre",
 	"terrainsCanBeBuiltOn": ["Land"],
 	"culture": 2,
         "happiness": 3,
