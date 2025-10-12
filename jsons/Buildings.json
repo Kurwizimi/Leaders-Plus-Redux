@@ -774,9 +774,9 @@
   "uniqueTo": "Celts",
   "cost": 1,
   "replacementTextForUniques": "[Earn 100% of killed Military unit's Strength as [Science]]
-[+5% [Science] in all cities upon conquering a city]",
+[+5% [Science] for 15 turns in all cities upon conquering a city]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+5]% [Science] [in all cities] <upon conquering a city>",
+  "Destroyed when the city is captured", "[+5]% [Science] [in all cities] <for [15] turns> <upon conquering a city>",
   "Earn [100]% of killed [Military] unit's [Strength] as [Science]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
@@ -956,7 +956,7 @@
   "replacementTextForUniques": "[Military Land units gains +50% Strength in Water tiles and may attack when embarked]
 [+1 [Happiness] in all cities on foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[Military] units gain the [Polynesia bonus]", "[+1 Happiness] [in all cities] <on foreign continents>", 
+  "Destroyed when the city is captured", "[Military] units gain the [Polynesia bonus] promotion", "[+1 Happiness] [in all cities] <on foreign continents>", 
   "[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>", "[+50]% Strength <for [{Military} {Land}] units> <in [Water] tiles>",
   "Triggers a global alert upon build start","Cannot be purchased"],
 },
@@ -1230,7 +1230,7 @@
   "[Tank] units gain the [Japan bonus V] promotion","[Modern Armor] units gain the [Japan bonus VI] promotion",
   "[Giant Death Robot] units gain the [Japan bonus VII] promotion","[Spearman] units gain the [Japan bonus I] promotion",
   "[Pikeman] units gain the [Japan bonus II] promotion","[Lancer] units gain the [Japan bonus III] promotion",
-  "[Anti-Tank Gun] units gain the [Japan bonus IV] promotion","[Helicopter Gunship] units gain the [Japan bonus V] promotion]",
+  "[Anti-Tank Gun] units gain the [Japan bonus IV] promotion","[Helicopter Gunship] units gain the [Japan bonus V] promotion",
   "[Catapult] units gain the [Japan bonus I] promotion","[Trebuchet] units gain the [Japan bonus II] promotion",
   "[Cannon] units gain the [Japan bonus III] promotion","[Artillery] units gain the [Japan bonus IV] promotion",
   "[Rocket Artillery] units gain the [Japan bonus V] promotion", "Upon capturing a city, receive [10] times its [Science] production as [Science] immediately",
