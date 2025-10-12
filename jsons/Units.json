@@ -91,7 +91,7 @@
 {
 	"name": "Great Engineer",
 	"unitType": "Civilian",
-	"uniques": ["Can speed up construction of a building <by consuming this unit>",
+	"uniques": ["Can speed up construction of a building",
         "Can instantly construct a [Manufactory] improvement <by consuming this unit> <without [Churchill bonus]>",
         "Can instantly construct a [Manufactory] improvement <[1] times> <with [Churchill bonus]>",
         "Great Person - [Production]", "Unbuildable", "Uncapturable"],
