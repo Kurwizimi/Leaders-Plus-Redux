@@ -368,7 +368,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled", "Unsellable <with [Konstantin bonus]>"]
+		"uniques": ["Only availabel <when religion is enabled>", "Unsellable <with [Konstantin bonus]>"]
 	},
 {
 		"name": "Temple",
@@ -377,7 +377,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured", "Unsellable <with [Konstantin bonus]>"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "Unsellable <with [Konstantin bonus]>"]
 	},
 {
   "name": "Unioning with Iron and Blood (Otto Von Bismarck)",
@@ -387,7 +387,7 @@
 [+20% Strength when fighting in Neutral Land]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured",
-  "Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns.", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
+  "Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns.", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
   "[-20]% Strength <when fighting in [Enemy Land] tiles>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
@@ -695,11 +695,11 @@
   "name": "Spanish Inquisition (Isabella)",
   "uniqueTo": "Spain",
   "cost": 1,
-  "replacementTextForUniques": "[[Inquisitor]s can Remove Foreign religions from your own cities 1 extra times]
-[[Inquisitor]s gives +25% Strength to Military units within 4 tiles, decreasing with distance]",
+  "replacementTextForUniques": "[[Inquisitor]s gain the [Devout] promotion]
+ [[Inquisitor]s gives +25% Strength to Military units within 4 tiles, decreasing with distance]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "Triggers the following global alert: [Spain's leader – Isabella]",
-  "[Inquisitor] units built [in all cities] can [Remove Foreign religions from your own cities] [1] extra times",
+  "All newly-trained [Inquisitor] units [in all cities] receive the [Devout] promotion",
   "[Inquisitor] units gain the [Spain bonus] promotion", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
@@ -797,7 +797,7 @@
   "replacementTextForUniques": "[Workers can construct [Chinese Wall] (replaces [Fort], +10% additionaly defensive bonus, Adjacent enemy units ending their turn take 12 damage)]
 [[-25]% tile improvement construction time]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% tile improvement construction time", "Triggers a global alert upon build start","Cannot be purchased"],
+  "Destroyed when the city is captured", "Provides [1] [China bonus]", "[-25]% construction time for [All] improvements", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 // {
 //  "name": "Lijia (Yongle)",
