@@ -410,8 +410,8 @@
 	"name": "Barracks",
 	"hurryCostModifier": 25,
 	"maintenance": 1,
-	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",
-        "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
+	"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured",
+        "New [Military] units start with [10] XP [in this city] <with [Germany bonus]>"],
 	"requiredTech": "Bronze Working"
 	},
 {
@@ -419,8 +419,8 @@
 	"hurryCostModifier": 25,
 	"maintenance": 1,
 	"requiredBuilding": "Barracks",
-	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",
-        "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
+	"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured",
+        "New [Military] units start with [10] XP [in this city] <with [Germany bonus]>"],
 	"requiredTech": "Steel"
 	},
 {
@@ -428,8 +428,8 @@
 	"hurryCostModifier": 0,
 	"maintenance": 1,
 	"requiredBuilding": "Armory",
-	"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",
-        "New [Military] units start with [10] Experience [in this city] <with [Germany bonus]>"],
+	"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured",
+        "New [Military] units start with [10] XP [in this city] <with [Germany bonus]>"],
 	"requiredTech": "Military Science"
 	},
 {
@@ -734,7 +734,7 @@
   "replacementTextForUniques": "[Can construct a second [Palace], to which all bonuses \"in capital\" will be applied and +1 [Production], [Science], [Culture], [Food], [Gold] in capitals per every era after the Classical era]
 [-50% tile improvement construction time in all tiles with neighboring [City center]]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "Provides [1] [Dido bonus]", "[-50]% tile improvement construction time <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>",
+  "Destroyed when the city is captured", "Provides [1] [Dido bonus]", "[-50]% construction time for [All] improvements <in [Land] tiles> <with [1] to [6] neighboring [City center] tiles>",
   "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Classical era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Medieval era]>",
   "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Renaissance era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Industrial era]>",
   "[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Atomic era]>","[+1 Culture, +1 Food, +1 Science, +1 Gold, +1 Production] [in capital] <starting from the [Information era]>",
