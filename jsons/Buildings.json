@@ -956,7 +956,7 @@
   "replacementTextForUniques": "[Military Land units gains +50% Strength in Water tiles and may attack when embarked]
 [+1 [Happiness] in all cities on foreign continents]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[Military] units gain the [Polynesia bonus] promotion", "[+1 Happiness] [in all cities] <on foreign continents>", 
+  "Destroyed when the city is captured", "All newly-trained [Military] units [in all cities] receive the [Polynesia bonus] promotion", "[+1 Happiness] [in all cities] <on foreign continents>", 
   "[+1 Happiness] [in all cities] <on foreign continents> <starting from the [Medieval era]>", "[+50]% Strength <for [{Military} {Land}] units> <in [Water] tiles>",
   "Triggers a global alert upon build start","Cannot be purchased"],
 },
@@ -1215,7 +1215,7 @@
   "name": "Technological Unification of Japan (Oda Nobunaga)",
   "uniqueTo": "Japan",
   "cost": 1,
-  "replacementTextForUniques": "[Land units gain +10% Strength when attacking every time they are replaced]
+  "replacementTextForUniques": "[Land units gain +10% Strength when attacking every time they are upgraded]
 [Upon capturing a city, receive 10 times its [Science] production as [Science] immediately]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[Warrior] units gain the [Japan bonus I] promotion","[Swordsman] units gain the [Japan bonus II] promotion",
