@@ -387,7 +387,7 @@
 [+20% Strength when fighting in Neutral Land]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured",
-  "Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns.", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
+  "Can spend Gold to annex or puppet a City-State that has been your Ally for [7] turns", "[+20]% Strength <when fighting in [Foreign Land] tiles>",
   "[-20]% Strength <when fighting in [Enemy Land] tiles>", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
