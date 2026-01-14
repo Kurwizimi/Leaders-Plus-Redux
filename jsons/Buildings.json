@@ -368,7 +368,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Only availabel <when religion is enabled>", "Unsellable <with [Konstantin bonus]>"]
+		"uniques": ["Only available <when religion is enabled>", "Unsellable <with [Konstantin bonus]>"]
 	},
 {
 		"name": "Temple",
@@ -829,18 +829,7 @@
   "replacementTextForUniques": "[+1 [Science] from every Improvement with neighboring [City center]]
 [+20% [Science], [Culture] from every National Wonder]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-  "Destroyed when the city is captured", "[+1 Science] from [Farm] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Mine] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Trading post] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Lumber mill] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Camp] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Oil well] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Offshore Platform] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Pasture] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Plantation] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Quarry] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Fishing Boats] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Fort] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Academy] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Manufactory] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Landmark] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Customs house] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Holy site] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Citadel] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from [Moai] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [Terrace farm] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
-  "[+1 Science] from  [Polder] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>","[+1 Science] from [City ruins] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
+  "Destroyed when the city is captured", "[+1 Science] from [improved] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>",
   "[+20]% [Science] from every [National Wonder]", "[+20]% [Culture] from every [National Wonder]", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
@@ -1043,8 +1032,8 @@
   "[-40]% Culture cost of natural border growth [in all cities] <with [4] to [4] neighboring [Jungle] tiles>","[-50]% Culture cost of natural border growth [in all cities] <with [5] to [5] neighboring [Jungle] tiles>",
   "[-60]% Culture cost of natural border growth [in all cities] <with [6] to [6] neighboring [Jungle] tiles>", "[+1 Science] from every [Jungle] <with [1] to [6] neighboring [Forest] tiles>", 
   "[+1 Science] from every [Forest] <with [1] to [6] neighboring [Jungle] tiles>",
-  "[+1]% Culture cost of natural border growth [in all cities] <with [5] to [5] neighboring [Jungle] tiles> <if [Alhambra] is constructed> <after adopting [Tradition]>", 
-  "[+11]% Culture cost of natural border growth [in all cities] <with [6] to [6] neighboring [Jungle] tiles> <if [Alhambra] is constructed> <after adopting [Tradition]>",
+  //"[+1]% Culture cost of natural border growth [in all cities] <with [5] to [5] neighboring [Jungle] tiles> <if [Alhambra] is constructed> <after adopting [Tradition]>", 
+  //"[+11]% Culture cost of natural border growth [in all cities] <with [6] to [6] neighboring [Jungle] tiles> <if [Alhambra] is constructed> <after adopting [Tradition]>",
   "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
