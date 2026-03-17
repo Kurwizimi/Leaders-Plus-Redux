@@ -8,7 +8,7 @@
   "Destroyed when the city is captured", "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
 },
 {
-  "name": "Landowning reforms (Maria Theresa)",
+  "name": "Landowning Reforms (Maria Theresa)",
   "uniqueTo": "Austria",
   "cost": 1,
   "replacementTextForUniques": "[+1 [Production], +1 [Food], +1 [Gold] from every [Farm] in Bonus resource tiles]
@@ -121,17 +121,17 @@
   "Triggers a global alert upon build start","Cannot be purchased"]
 },
 
-// {
-//  "name": "Rise of the Fine Arts (Elizabeth)",
-//  "uniqueTo": "England",
-//  "cost": 1,
-//  "replacementTextForUniques": "[Unique Unit - Great Actor. Can instantly construct [Great Theatre] (+3 [Happiness], +2 [Culture], effect is doubled with neighboring [City center] tiles) and start Golden Age. Points of [Great Actor]s are +2 from [Happiness] buildings and for +1 from [Culture] buildings]
-// [+10% [Culture] from all [Happiness] buildings]",
-//  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
-//  "[+10]% [Culture] from every [Colosseum]", "Provides [1] [Elizabeth bonus]",
-//  "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
-//  "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
-// },
+ {
+  "name": "Rise of the Fine Arts (Elizabeth)",
+  "uniqueTo": "England",
+  "cost": 1,
+  "replacementTextForUniques": "[Unique Unit - Great Actor. Can instantly construct [Great Theatre] (+3 [Happiness], +2 [Culture], effect is doubled with neighboring [City center] tiles) and start Golden Age. Points of [Great Actor]s are +2 from [Happiness] buildings and for +1 from [Culture] buildings]
+ [+10% [Culture] from all [Happiness] buildings]",
+  "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
+  "[+10]% [Culture] from every [Colosseum]", "Provides [1] [Elizabeth bonus]",
+  "[+10]% [Culture] from every [Theatre]", "[+10]% [Culture] from every [Stadium]",
+  "Destroyed when the city is captured", "Triggers a global alert upon build start","Cannot be purchased"],
+},
 
 {
   "name": "Pax Britannica (Victoria)",
@@ -380,7 +380,7 @@
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "Unsellable <with [Konstantin bonus]>"]
 	},
 {
-  "name": "Unioning with Iron and Blood (Otto Von Bismarck)",
+  "name": "Union of Iron and Blood (Otto Von Bismarck)",
   "uniqueTo": "Germany",
   "cost": 1,
   "replacementTextForUniques": "[Can spend [Gold] to annex or puppet a City-State that has been your ally for [7] turns.]
@@ -653,7 +653,7 @@
   "uniqueTo": "Inca",
   "cost": 1,
   "replacementTextForUniques": "[Cities gain +1 [Food] for every adjacent [Mountain] tiles]
-[Double movement in Improvement tiles with neighboring [Mountain] tiles]",
+[Units gain +1 Movement when ending their turn on a [Road] or [Railroad]]",
   "uniques": ["Unsellable", "Only available <without [Leader limit]>", "Provides [1] [Leader limit]",
   "Destroyed when the city is captured", "[+1 Food] [in all cities] <with [1] to [1] neighboring [Mountain] tiles>",
   "[+2 Food] [in all cities] <with [2] to [2] neighboring [Mountain] tiles>", "[+3 Food] [in all cities] <with [3] to [3] neighboring [Mountain] tiles>","[+6 Food] [in all cities] <with [6] to [6] neighboring [Mountain] tiles>",
