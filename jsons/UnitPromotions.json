@@ -19,7 +19,7 @@
 {
   "name": "Inca bonus",
  "replacementTextForUniques": "+1 Movement when ending a turn on a [Road] or [Railroad]",
-  "uniques": ["Will not be displayed in Civilopedia", "[This unit] gains [1] movement <upon ending a turn in a [Road] tile>", "[This unit] gains [1] movement <upon ending a turn in a [Railroad] tile>"]
+  "uniques": ["Will not be displayed in Civilopedia", "[This Unit] gains [1] movement <upon ending a turn in a [Road] tile>", "[This Unit] gains [1] movement <upon ending a turn in a [Railroad] tile>"]
 },
 {
   "name": "Spain bonus",
