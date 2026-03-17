@@ -18,8 +18,8 @@
 },
 {
   "name": "Inca bonus",
- "replacementTextForUniques": "Double movement in Improvement with neighboring Mountain tiles",
-  "uniques": ["Will not be displayed in Civilopedia", "Double movement in [Improvement] <with [1] to [6] neighboring [Mountain] tiles>"]
+ "replacementTextForUniques": "+1 Movement when ending a turn on a [Road] or [Railroad]",
+  "uniques": ["Will not be displayed in Civilopedia", "[+1] Movement <upon ending a turn in a [Road] tile>", "[+1] Movement <upon ending a turn in a [Railroad] tile>"]
 },
 {
   "name": "Spain bonus",
